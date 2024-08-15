@@ -4,7 +4,8 @@ Learner
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning DSA, MongoDB
-- 😄 Pronouns: He/Him
+**Skills: Python, SQL, Java, HTML**
+-> 🌱 I’m currently learning DSA, MongoDB
+-> 😄 Pronouns: He/Him
+-> 
 
