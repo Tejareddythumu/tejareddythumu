@@ -5,7 +5,11 @@ Learner
 Here are some ideas to get you started:
 -->
 **Skills: Python, SQL, Java, HTML**
+
 -> 🌱 I’m currently learning DSA, MongoDB
+
 -> 😄 Pronouns: He/Him
+
 -> 
+
 
