@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 **Skills: Python, SQL, Java, HTML**
 
--> 🌱 I’m currently learning DSA, MongoDB
+-> 🌱 I’m currently learning DSA
 
 -> 😄 Pronouns: He/Him
 
