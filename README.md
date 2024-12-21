@@ -4,9 +4,9 @@ Learner
 
 Here are some ideas to get you started:
 -->
-**Skills: Python, SQL, Java, HTML**
+**Skills: Python, SQL, HTML**
 
--> 🌱 I’m currently learning DSA
+-> 🌱 Currently learning DSA
 
 -> 😄 Pronouns: He/Him
 
