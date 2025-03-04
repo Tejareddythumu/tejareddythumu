@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 **Skills: Python, SQL, HTML**
 
--> 🌱 Currently learning DSA
+-> 🌱 
 
 -> 😄 Pronouns: He/Him
 
